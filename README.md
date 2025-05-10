@@ -2,6 +2,14 @@
 
 > 🗣️ Turn any copied text — from research papers to articles — into instant, natural-sounding speech. An AI-powered text reader built for listening while multitasking.
 
+---
+
+## 🎥 Demo  
+
+https://github.com/user-attachments/assets/733bcf01-7d0a-467a-beaf-a56cea6da60b
+
+---
+
 ## 🧠 What It Does
 This lightweight Python tool converts copied text into speech on-the-fly using a state-of-the-art multilingual TTS model. Ideal for:
 - Reading long documents aloud
