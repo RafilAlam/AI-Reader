@@ -17,6 +17,13 @@ This lightweight Python tool converts copied text into speech on-the-fly using a
 - Consuming articles hands-free
 - Turning any text into an instant audiobook
 
+## 🫂 Who does it help?
+nt
+- Reading long documents aloud
+- Listening to research papers
+- Consuming articles hands-free
+- Turning any text into an instant audiobook
+
 ## ✨ Features
 - 🔊 **Natural-sounding multilingual voice**
 - 📋 **Reads clipboard text instantly (Ctrl+B)**
