@@ -21,8 +21,7 @@ This lightweight Python tool converts copied text into speech on-the-fly using a
 
 - Researchers
 - The Visually-Impaired
-- Consuming articles hands-free
-- Turning any text into an instant audiobook
+- The Elderly
 
 ## ✨ Features
 - 🔊 **Natural-sounding multilingual voice**
