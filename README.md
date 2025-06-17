@@ -1,6 +1,6 @@
 # 📚 AI-Text-Audiobook-Reader
 
-> 🗣️ Turn any copied text — from research papers to articles — into instant, natural-sounding speech. An AI-powered text reader built for listening while multitasking.
+> 🗣️ Turn any copied text — from research papers to articles — into instant, natural-sounding speech.
 
 ---
 
